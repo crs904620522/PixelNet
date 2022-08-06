@@ -5,7 +5,7 @@ PixelNet: Pixel-based Matching Cost Function for Light Field Disparity Estimatio
 # Environment
 1. pytorch 1.8.0
 2. python 3.6.1
-3. Ubuntu
+3. Ubuntu 18.04.5 LTS (GNU/Linux 5.4.0-107-generic x86_64)
 
 
 # Email
