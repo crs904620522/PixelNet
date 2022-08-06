@@ -12,6 +12,6 @@ PixelNet: Pixel-based Matching Cost Function for Light Field Disparity Estimatio
 Rongshan@buaa.edu.cn
 
 # code will be released if accepted.  2022-08-06
-# More details will be added When I free my hand.
+More details will be added When I free my hand.
 
 
