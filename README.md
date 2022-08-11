@@ -8,7 +8,7 @@ results are uploaded.
 
 './results/benchmark': Submissions on HCI 4D Light Field Benchmark.
 
-'./results/new': New results achieved, a little better than the benchmark one.
+'./results/now': New results achieved, a little better than the benchmark one.
 
 # Environment
 1. pytorch 1.8.0
