@@ -17,7 +17,7 @@ results are uploaded.
 
 
 # Email
-Rongshan@buaa.edu.cn
+rongshan@buaa.edu.cn
 
 code will be released if accepted.  2022-08-06.
 
